@@ -5,7 +5,8 @@
 - 18 years old Beninese newbie in programming.
 
 ## Programming Skills
-- Can code in ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) and currently learning Python and C#.
+- Can code in and currently learning Python and C#.
+- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - Interested in game development.
 - Currently working on 2D CSFML games.
 

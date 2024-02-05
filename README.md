@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome, Traveler
 
-<!--
-**FaroukJGRNT/FaroukJGRNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who Am I ?
+Farouk OKANLA
+18 years old Beninese newbie in programming.
 
-Here are some ideas to get you started:
+# Programming Skills
+Can code in C and currently learning Python and C#.
+Interested in game development.
+Currently working on 2D CSFML games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact Me
+Tel : +229 53 82 86 76
+E-mail : leonardetincelle@gmail.com

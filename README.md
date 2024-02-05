@@ -3,6 +3,7 @@
 ## Who Am I ?
 - Farouk OKANLA
 - 18 years old Beninese newbie in programming.
+- Interested in game development.
 
 ## Programming Skills
 - Can code in :
@@ -10,7 +11,6 @@
 - Currently learning :
   - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Interested in game development.
 - Currently working on 2D CSFML games.
 
 ## Contact Me

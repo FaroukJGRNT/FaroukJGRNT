@@ -2,7 +2,7 @@
 
 ## Who Am I ?
 - Farouk OKANLA
-- 18 years old Beninese newbie in programming.
+- 19 years old Beninese student in programming.
 - Interested in game development.
 
 ## Programming Skills

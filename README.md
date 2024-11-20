@@ -8,9 +8,11 @@
 ## Programming Skills
 - Can code in :
   - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- Currently learning :
   - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- Currently learning :
+  - HTML
+  - CSS
+  - JavaScript
 - Currently working on games with the Godot game engine.
 
 ## Contact Me

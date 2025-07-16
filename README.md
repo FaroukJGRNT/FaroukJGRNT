@@ -3,12 +3,16 @@
 ## Who Am I ?
 - Farouk OKANLA
 - 19 years old Beninese student in programming.
-- Interested in game development.
+- Interested in game and full-stack web-development.
 
 ## Programming Skills
 - Can code in :
   - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white)
   - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=html&logoColor=white)
+  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=css&logoColor=white)
+  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 - Currently learning :
   - HTML
   - CSS

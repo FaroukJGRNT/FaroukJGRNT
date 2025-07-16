@@ -7,18 +7,19 @@
 
 ## Programming Skills
 - Can code in :
-  - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white)
-  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=html&logoColor=white)
-  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=css&logoColor=white)
-  - ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+    - C
+    - C++
+    - Python
+    - Haskell
+    - HTML
+    - CSS
+    - JavaScript
 - Currently learning :
-  - HTML
-  - CSS
-  - JavaScript
+  - React JS
+  - FastAPI
+  - PostgreSQL
 - Currently working on games with the Godot game engine.
 
 ## Contact Me
 - Tel : +229 53 82 86 76
-- E-mail : leonardetincelle@gmail.com
+- E-mail : farouk.okanla@epitech.com

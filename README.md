@@ -2,7 +2,7 @@
 
 ## Who Am I ?
 - Farouk OKANLA
-- 19 years old Beninese student in programming.
+- 20 years old Beninese student in programming.
 - Interested in game and full-stack web-development.
 
 ## Programming Skills

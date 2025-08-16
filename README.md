@@ -15,11 +15,13 @@
     - CSS
     - JavaScript
 - Currently learning :
+  - PHP
+  - Tailwind CSS  
   - React JS
   - FastAPI
   - PostgreSQL
 - Currently working on games with the Godot game engine.
 
 ## Contact Me
-- Tel : +229 53 82 86 76
-- E-mail : farouk.okanla@epitech.com
+- Tel : +229 01 53 82 86 76
+- E-mail : farouk.okanla@epitech.eu
